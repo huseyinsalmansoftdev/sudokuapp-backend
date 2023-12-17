@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
