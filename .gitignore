@@ -26,3 +26,6 @@ yarn.lock
 
 # Windows
 Thumbs.db
+
+# Local Netlify folder
+.netlify
